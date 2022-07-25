@@ -7,4 +7,4 @@ Scrape product pages from given urls in a CSV file
 * It scrapes the csv given to the scrape function from current folder if it exists. 
 * `extension.py` is used to read the csv file and create the final json file.
 
-#### Currently the items.json file contains all the products given in the csv file which had valid urls.
+#### Currently the `items.json` file contains all the products given in the csv file which had valid urls.
